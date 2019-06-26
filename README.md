@@ -22,5 +22,5 @@ hw7: C&RT, Random Forest
 hw8: CNN, k-means, k-NN
 
 
-Attention: all the codes are written by Jupyter Notebook
+Attention: all the codes are written by Jupyter Notebook.
 26/06/2019
